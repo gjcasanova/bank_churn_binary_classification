@@ -15,3 +15,6 @@ jupyterlab  # https://github.com/cookiecutter/cookiecutter
 
 # Environment
 python-dotenv  # https://pypi.org/project/python-dotenv
+
+# Kaggle
+kaggle  # https://github.com/Kaggle/kaggle-api
