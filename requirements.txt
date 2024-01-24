@@ -13,6 +13,9 @@ matplotlib  # https://github.com/matplotlib/matplotlib
 scikit-learn  # https://github.com/scikit-learn/scikit-learn
 jupyterlab  # https://github.com/cookiecutter/cookiecutter
 
+# Development
+ipdb  # https://github.com/gotcha/ipdb
+
 # Environment
 python-dotenv  # https://pypi.org/project/python-dotenv
 
