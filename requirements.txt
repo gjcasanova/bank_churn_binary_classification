@@ -12,6 +12,8 @@ pandas  # https://github.com/pandas-dev/pandas
 matplotlib  # https://github.com/matplotlib/matplotlib
 scikit-learn  # https://github.com/scikit-learn/scikit-learn
 jupyterlab  # https://github.com/cookiecutter/cookiecutter
+keras  # https://github.com/keras-team/keras
+tensorflow  # https://github.com/tensorflow/tensorflow
 
 # Development
 ipdb  # https://github.com/gotcha/ipdb
